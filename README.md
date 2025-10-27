@@ -1,5 +1,5 @@
 # imshubham22apr-gif
-### Hi there, I'm Shubham! 👋
+### Hi there, I'm Aashish👋
 
 <p>
   I'm a first-year B.Tech Computer Science student at Polaris School of Technology Bangalore , specializing in <strong>Artificial Intelligence and Machine Learning</strong>. 
