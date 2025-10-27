@@ -29,5 +29,5 @@
 </p>
 
 #### 📫 How to Reach Me
-* **LinkedIn:** [Your *Correct* LinkedIn Profile URL]
+* **LinkedIn:** https://www.linkedin.com/in/panditaashish/
 
